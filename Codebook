@@ -1,0 +1,12 @@
+"body_acc_x.txt" : x axis acceleration from the accelerometer (total acceleration) and the estimated body acceleration
+"body_acc_y.txt"  : y axis acceleration from the accelerometer (total acceleration) and the estimated body acceleration 
+"body_acc_z.txt"  : z axis acceleration from the accelerometer (total acceleration) and the estimated body acceleration
+"body_gyro_x.txt" : angular x axis velocity from the gyroscope
+"body_gyro_y.txt" : angular y axis velocity from the gyroscope
+"body_gyro_z.txt" : angular z axis velocity from the gyroscope
+"total_acc_x.txt" : total x acceleration
+"total_acc_y.txt" : total y acceleration
+"total_acc_z.txt" :_total z acceleration
+"test : Is a test or not subject
+"sujetos" : Subject number
+"actividad": activity developed 1 WALKING 2 WALKING_UPSTAIRS 3 WALKING_DOWNSTAIRS 4 SITTING 5 STANDING 6 LAYING
